@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/luciagd/code/Lugadur/TaxiFareModel/mlruns/1/b5ea45b8d918498486516bb24f2dd12a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b5ea45b8d918498486516bb24f2dd12a
+run_uuid: b5ea45b8d918498486516bb24f2dd12a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653399567182
+status: 1
+tags: []
+user_id: unknown
